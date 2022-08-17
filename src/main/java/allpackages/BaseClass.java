@@ -18,6 +18,7 @@ import net.bytebuddy.utility.RandomString;
 public class BaseClass {
 	protected static WebDriver driver;
 	
+	// heloow manoj 
 	public static void openBrowser(String browser) throws IOException
 	{
 		if(browser.equalsIgnoreCase("chrome"))
