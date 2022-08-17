@@ -19,7 +19,7 @@ public class BaseClass {
 	protected static WebDriver driver;
 	
 	// heloow manoj 
-	// hiii
+	// hiiicascasczxczxc
 	public static void openBrowser(String browser) throws IOException
 	{
 		if(browser.equalsIgnoreCase("chrome"))
