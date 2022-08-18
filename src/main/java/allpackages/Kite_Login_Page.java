@@ -4,7 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
-
+//hi Manoj
 public class Kite_Login_Page {
 	@FindBy(id="userid") private WebElement user_id;
 	@FindBy(id="password") private WebElement pwd;
